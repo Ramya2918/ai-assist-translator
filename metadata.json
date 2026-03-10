@@ -1,0 +1,5 @@
+{
+  "name": "AI Assist Translator",
+  "description": "A professional AI-powered speech translator that converts any spoken language to English with session history.",
+  "requestFramePermissions": ["microphone"]
+}
